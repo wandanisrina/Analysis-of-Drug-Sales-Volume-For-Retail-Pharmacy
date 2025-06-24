@@ -54,9 +54,7 @@ Tools used for this analysis are `VS Code` and `Tableau`. Libraries from Python 
 ```
 
 ## Reference
-```
+
 - [Tableau Dashboard Visualization](https://public.tableau.com/app/profile/wanda.nisrina/viz/AnalysisofDrugSalesVolume/AnalysisofDrugSalesVolumeForRetailPharmacyin2019-2020?publish=yes) (**Must read**)
 - [Project Repository](https://github.com/wandanisrina/Analysis-of-Drug-Sales-Volume-For-Retail-Pharmacy.git) (**Must read**)
 - [Raw dataset link](https://www.kaggle.com/datasets/krishangupta33/pharmaceutical-company-wholesale-retail-data?resource=download)
-
-```
